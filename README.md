@@ -1,6 +1,3 @@
-# NLP_SMS_Spam_Classifier
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
