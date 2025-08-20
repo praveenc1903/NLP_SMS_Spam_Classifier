@@ -110,7 +110,7 @@ nltk.download('punkt')</code></pre>
 
   <h2>👨‍💻 Author</h2>
   <p>
-    <a href="https://github.com/your-username" target="_blank">Praveen C</a>
+    <a href="https://github.com/praveenc1903" target="_blank">Praveen C</a>
   </p>
 
 </body>
